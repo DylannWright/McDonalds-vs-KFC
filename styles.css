@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=2000");
+    background-color:rgb(21, 70, 58) ;
 }
 
 h1 {
@@ -23,9 +23,8 @@ div {
     float:left;
     background-color: antiquewhite;
     width: 20em;
-    border: 15px;
-    border-color: tomato;
-    padding: 50px;
+    border: 15px solid tomato;
+    padding: 5em;
     margin: 20px;
 }
 
